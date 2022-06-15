@@ -70,4 +70,15 @@ hr {
     text-align: center;
     padding-top: 10px;
     background-color: #343434;
+    cursor:pointer;
+}
+
+.input-div{
+    padding-left: 30px;
+    color:white;
+    font-weight: 100;
+}
+
+input {
+    margin-left: 20px;
 }
